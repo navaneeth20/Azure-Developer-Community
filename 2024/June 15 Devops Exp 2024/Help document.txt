@@ -1,0 +1,3 @@
+https://github.com/globaldevopsexperience/gdex-2024
+
+https://github.com/login/oauth/authorize?client_id=Ov23lijtxYK5rv8SRQWm&scope=read%3Auser&response_type=code&redirect_uri=http%3A%2F%2Fintranet.globoticket.com%2Fsignin-github&state=CfDJ8JTTF0EbNJxIhTcjwccnr_51gkvYfEGXGJ98QK5ap1t77ftdcGAWVUU4FS5WqGBQDuBOybYjPCEcpZ7sGEJo5_1nrnTZEWmOt-_Kn-gRmlTb8TTepK9dzJmT_Lslt7WD7qDB48GXXKzrWJhZTHxN7WlJXoo5kJ8Fp2gL7Yuu8hBFCpEFpNOqP56TIUd5RyoIH4x23OO6zrXdvRRsYdBEwxA
