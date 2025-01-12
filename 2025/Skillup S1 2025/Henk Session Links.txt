@@ -1,0 +1,1 @@
+Henk: https://github.com/microsoft/aitour-generative-ai-in-azure
