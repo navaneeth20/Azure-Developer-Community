@@ -1,0 +1,27 @@
+Follow our LinkedIn page for event updates @ https://lnkd.in/g-urAwss
+
+📅 Event Agenda
+09:30 - 10:00 AM Welcome Note/Introduction by Navaneethan Gopal
+10.00 - 10.45 AM Beyond Copilot: Architecting MCP-Enabled Azure Agents by Hemamalini
+10:45 - 11:30 AM Multi-Agent AI Orchestration with Azure AI Foundry by Bhargavi Chakravarthi Rangarajan
+11:30 – 11:50 AM Group Photo & Break/Networking
+11:50 – 12:30 PM YTD
+🔧 VS Code Dev Days – Learn, Build, and Code Smarter
+
+Join us for VS Code Dev Days – a hands-on, developer-focused event designed to supercharge your coding skills with Visual Studio Code and the power of GitHub Copilot.
+
+Whether you’re a beginner exploring development tools or an experienced coder looking to streamline your workflow, this event offers something for everyone.
+
+💡 What to Expect:
+🎤 Expert-led introductory session to set the context
+💻 Live hands-on workshop where you’ll build, code, and explore real-world scenarios
+⚡ Learn to boost productivity using Visual Studio Code, GitHub Copilot, and other modern dev tools
+🤖 Explore how AI is transforming software development and how you can integrate it into your daily workflow
+🤝 Network with fellow developers, community leaders, and tech enthusiasts
+
+🚀 Who Should Attend:
+
+Developers of all experience levels
+Students and aspiring programmers
+Tech enthusiasts interested in AI and coding productivity
+Anyone curious about building with VS Code and GitHub Copilot
