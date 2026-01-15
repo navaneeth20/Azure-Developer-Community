@@ -1,1 +1,13 @@
+📅 Event Agenda
+09:30 - 10:00 AM Welcome Note/Introduction by Navaneethan Gopal
+10.00 - 10.40 AM Building Real-World AI Systems using MCP by Karthik & Mathan
+10:40 - 11:20 AM Turning Pre-trained Models into Domain Experts by Harun
+11:20 – 11:40 AM Group Photo & Break/Networking
+11:40 – 12:20 PM Building a Fully Private Azure OpenAI Integration with AKS (No Public Access, No Secrets) by Anand
+12:20 - 13.00 PM Agentic AI in Enterprise by Balaji
+
+
+Code FilesL
+
 https://github.com/MathanGit-1/bse_automation
+
